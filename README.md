@@ -1,3 +1,12 @@
+# Archived 3rd-Party Fork
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+No further contributions are anticipated to be made.
+
+This repo is a fork of [actix/actix-net](https://github.com/actix/actix-net)
+
+---
+
 # Actix net [![Build Status](https://travis-ci.org/actix/actix-net.svg?branch=master)](https://travis-ci.org/actix/actix-net) [![codecov](https://codecov.io/gh/actix/actix-net/branch/master/graph/badge.svg)](https://codecov.io/gh/actix/actix-net) [![Join the chat at https://gitter.im/actix/actix](https://badges.gitter.im/actix/actix.svg)](https://gitter.im/actix/actix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Actix net - framework for composable network services
